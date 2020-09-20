@@ -24,7 +24,7 @@ Some of the academic research work I have completed.
 | Artistic uses of SVG plots | <a href="https://github.com/dajhutchinson/playing-with-svgs"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=playing-with-svgs&title_color=547358&text_color=547358" /></a> |
 | Webscraper for Procyclingstats.com | <a href="https://github.com/dajhutchinson/ProCyclingStats-scraper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=ProCyclingStats-scraper&title_color=547358&text_color=547358" /></a> |
 
-### Data Science
+### Data Analysis
 | Tagline | Card |
 |---------|------|
 | Investigation into whether age is strong indicator of success at the Olympics | <a href="https://github.com/dajhutchinson/Olympic-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=Olympic-Analysis&title_color=547358&text_color=547358" /></a> |
