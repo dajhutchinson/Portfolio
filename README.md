@@ -7,11 +7,11 @@
 </a>
 <a href="https://github.com/dajhutchinson">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-Hi, I am [Dom Hutchinson](http://www.domhutchinson.me).
-- Currently I am in my final year of a **Master's in Mathematics &amp; Computer Science** at the University of Bristol.
-- I am looking for work in Consultancy and in Data Science, aiming to start in July 2021.
-- Contact me at [dom@domhutchinson.me](mailto:dom@domhutchinson.me)
+</a><br>
+Hi, I am [Dom Hutchinson](http://www.domhutchinson.me).\
+- Currently I am in my final year of a **Master's in Mathematics &amp; Computer Science** at the University of Bristol.\
+- I am looking for work in Consultancy and in Data Science, aiming to start in July 2021.\
+- Contact me at [dom@domhutchinson.me](mailto:dom@domhutchinson.me).\
 
 Here is a selection of my work.
 
@@ -26,7 +26,7 @@ Some of the academic research work I have completed.
 ## General Programming
 <a href="https://github.com/dajhutchinson">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dajhutchinson&hide_langs_below=1&title_color=547358&text_color=547358" />
-</a>
+</a><br>
 | Title | Card |
 |-------|------|
 | Make SVG plots using GPS files | <a href="https://github.com/dajhutchinson/Strava_To_SVG"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=Strava_To_SVG&title_color=547358&text_color=547358" /></a> |
