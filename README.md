@@ -27,7 +27,7 @@ Some of the academic research work I have completed.
 ### Data Analysis
 | Tagline | Card |
 |---------|------|
-| Investigation into whether age is strong indicator of success at the Olympics | <a href="https://github.com/dajhutchinson/Olympic-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=Olympic-Analysis&title_color=547358&text_color=547358" /></a> |
+| Does the year you are born in an Olympic cycle affect the likelihood of you becoming an Olympic athlete or medalist? | <a href="https://github.com/dajhutchinson/Olympic-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=Olympic-Analysis&title_color=547358&text_color=547358" /></a> |
 | Understanding the spread of COVID-19 in the UK | <a href="https://github.com/dajhutchinson/COVID_19"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=COVID_19&title_color=547358&text_color=547358" /></a> |
 
 ## Stats
