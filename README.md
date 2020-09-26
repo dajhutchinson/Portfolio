@@ -13,22 +13,21 @@ Here is a selection of my work.
 Some of the academic research work I have completed.
 | Tagline | Card |
 |---------|------|
-| My university notes | <a href="https://github.com/dajhutchinson/University-of-Bristol-CS-Maths"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=University-of-Bristol-CS-Maths&title_color=547358&text_color=547358" /></a> |
-| Bachelor's Thesis | <a href="https://github.com/dajhutchinson/Detecting-Large-Neighbourhoods-in-Graph-Streams"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=Detecting-Large-Neighbourhoods-in-Graph-Streams&title_color=547358&text_color=547358" /></a> |
-| My LaTeX Package | <a href="https://github.com/dajhutchinson/LaTeX-Package"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=LaTeX-Package&title_color=547358&text_color=547358" /></a> |
+| My university notes | <a href="https://github.com/dajhutchinson/University-of-Bristol-CS-Maths"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=University-of-Bristol-CS-Maths&title_color=547358&text_color=547358" width=400 /></a> |
+| Bachelor's Thesis | <a href="https://github.com/dajhutchinson/Detecting-Large-Neighbourhoods-in-Graph-Streams"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=Detecting-Large-Neighbourhoods-in-Graph-Streams&title_color=547358&text_color=547358" width=400 /></a> |
+| My LaTeX Package | <a href="https://github.com/dajhutchinson/LaTeX-Package"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=LaTeX-Package&title_color=547358&text_color=547358" width=400 /></a> |
 
 ## General Programming
 | Tagline | Card |
 |---------|------|
-| Make SVG plots using GPS files | <a href="https://github.com/dajhutchinson/Strava_To_SVG"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=Strava_To_SVG&title_color=547358&text_color=547358" /></a> |
-| Artistic uses of SVG plots | <a href="https://github.com/dajhutchinson/playing-with-svgs"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=playing-with-svgs&title_color=547358&text_color=547358" /></a> |
-| Webscraper for Procyclingstats.com | <a href="https://github.com/dajhutchinson/ProCyclingStats-scraper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=ProCyclingStats-scraper&title_color=547358&text_color=547358" /></a> |
+| Make SVG plots using GPS files | <a href="https://github.com/dajhutchinson/Strava_To_SVG"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=Strava_To_SVG&title_color=547358&text_color=547358" width=400 /></a> |
+| Artistic uses of SVG plots | <a href="https://github.com/dajhutchinson/playing-with-svgs"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=playing-with-svgs&title_color=547358&text_color=547358" width=400 /></a> |
+| Webscraper for Procyclingstats.com | <a href="https://github.com/dajhutchinson/ProCyclingStats-scraper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=ProCyclingStats-scraper&title_color=547358&text_color=547358" width=400 /></a> |
 
 ### Data Analysis
 | Tagline | Card |
 |---------|------|
-| Does the year you are born in an Olympic cycle affect the likelihood of you becoming an Olympic athlete or medalist? | <a href="https://github.com/dajhutchinson/Olympic-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=Olympic-Analysis&title_color=547358&text_color=547358" /></a> |
-| Understanding the spread of COVID-19 in the UK | <a href="https://github.com/dajhutchinson/COVID_19"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=COVID_19&title_color=547358&text_color=547358" /></a> |
+| Does the year you are born in an Olympic cycle affect the likelihood of you becoming an Olympic athlete or medalist? | <a href="https://github.com/dajhutchinson/Olympic-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dajhutchinson&repo=Olympic-Analysis&title_color=547358&text_color=547358" width=400 /></a> |
 
 ## Stats
 <a href="https://github.com/dajhutchinson">
